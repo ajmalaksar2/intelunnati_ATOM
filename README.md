@@ -54,5 +54,3 @@ This project aims to optimize the performance of Generative AI (GenAI) applicati
 - **Winston James Daniel B**: Performance testing and comparison.
 - **Gideon Suttle**: Visualization and documentation.
 - **Melvin Babu T**: Visualization and documentation.
-
-## Repository Structure
